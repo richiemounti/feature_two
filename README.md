@@ -1,5 +1,5 @@
 # feature two
-This is a unity 2D dialogue game whereby the plater is askeda variety of questions and proceeds once the
+This is a unity 2D dialogue game whereby the player is asked a variety of questions and proceeds once the
 player picks an answer from the list of available choice based answer.
 Once all the correct answers are picked the player can proceed to the next level.
 
